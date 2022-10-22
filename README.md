@@ -65,6 +65,22 @@ I love learning new things and trying out new technologies and all kinds of inte
 
 <br/>  
 
+## Certifications
+
+<div align="center">
+
+### FreeCodeCamp
+
+<a href="https://www.freecodecamp.org/certification/CherryKitten/responsive-web-design">Responsive Web Design</a>
+
+<a href="https://www.freecodecamp.org/certification/CherryKitten/javascript-algorithms-and-data-structures">Javascript Algorithms and Datastructures</a>
+
+<a href="https://www.freecodecamp.org/certification/CherryKitten/front-end-development-libraries">Frontend Development Libraries</a>
+
+
+Code for all Certification projects at <a href="https://github.com/CherryKitten/freecodecamp-projects">CherryKitten/freecodecamp-projects</a>
+
+</div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CherryKitten&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
