@@ -63,6 +63,8 @@ I love learning new things and trying out new technologies and all kinds of inte
 <a href="https://www.freecodecamp.org/certification/CherryKitten/javascript-algorithms-and-data-structures">Javascript Algorithms and Datastructures</a>
 
 <a href="https://www.freecodecamp.org/certification/CherryKitten/front-end-development-libraries">Frontend Development Libraries</a>
+  
+<a href="https://www.freecodecamp.org/certification/CherryKitten/data-visualization">Data Visualization</a>
 
 <a href="https://www.freecodecamp.org/certification/CherryKitten/back-end-development-and-apis">Backend Development and APIs</a>
 
