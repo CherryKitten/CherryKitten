@@ -1,10 +1,16 @@
 # CherryKitten 🐱  
   
 
-### <div align="center">Hi, I'm Sammy. My pronouns are It/Its.</div>  
+<div align="center">
+
+### Hi, I'm Sammy. My pronouns are It/Its.
+
+</div>  
   
 
-<div align="center">I'm a catgirl doing all kinds of IT stuff.
+<div align="center">
+
+I'm a catgirl doing all kinds of IT stuff.
 
 I'm most experienced with the administration side of things, but also do lots of programming.
 
@@ -103,4 +109,6 @@ Code for all Certification projects at <a href="https://github.com/CherryKitten/
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<p>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></p>
+</div>
