@@ -13,7 +13,4 @@ I'm most experienced with the administration side of things, but also do lots of
 
 I love learning new things and trying out new technologies and all kinds of interesting stuff.
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=CherryKitten&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" alt="Github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherryKitten&hide_border=true&layout=compact&theme=rose_pine" alt="Github language stats"/>
+Most personal repositories are mirrored from https://git.cherrykitten.dev.
