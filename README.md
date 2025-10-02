@@ -10,4 +10,4 @@ I'm most experienced with the administration side of things, but also do lots of
 
 I love learning new things and trying out new technologies and all kinds of interesting stuff.
 
-Most personal repositories are mirrored from https://git.cherrykitten.dev.
+I have removed all of my personal repositories from Github. You can find them on https://git.cherrykitten.dev.
